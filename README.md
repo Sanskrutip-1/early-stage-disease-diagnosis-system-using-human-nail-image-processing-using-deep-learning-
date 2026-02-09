@@ -1,0 +1,2 @@
+# early-stage-disease-diagnosis-system-using-human-nail-image-processing-using-deep-learning-
+Early detection of diseases plays a crucial role in improving patient outcomes, reducing healthcare costs, and enabling timely medical intervention. Human nails often reflect underlying health conditions, as changes in nail color, texture, shape, and structure can be indicators of systemic diseases such as anemia, diabetes, liver dis
